@@ -14,5 +14,8 @@ Original Script by [cw1o](https://github.com/cw1o)
 
 ## Run 💻
 
-1. cd to your new terraform project directory
-2. run tfstack-init
+|Steps|Commands|
+|-|-|
+| Step 1 | ```bash ~/your-terraform-project ``` |
+| Step 2 | ```bash tfstack-init ``` |
+| Step 3 | There is no step 3 |
