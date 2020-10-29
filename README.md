@@ -1,6 +1,6 @@
 # tfstack-init 🔧
 
-A simple way to scafhold a terraform project
+A simple way to scaffold a terraform project
 
 ## Hat tip 🎩
 
