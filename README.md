@@ -8,7 +8,7 @@ Original Script by [cw1o](https://github.com/cw1o)
 
 ## Install 📦 & Run 💻
 
-|Steps|Commands|
+| Steps 📝 | Commands 💻 |
 |-|-|
 | Step 1 | ``` /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/dewhurstwill/tfstack-init/main/install.sh)" ``` |
 | Step 2 | ``` cd ~/your-terraform-project ``` |
